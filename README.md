@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Django, React.js and JavaScript**
 
-- 📫 How to reach me **arhitprasar@gmail.com**
+- 📫 How to reach me **architprasar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
