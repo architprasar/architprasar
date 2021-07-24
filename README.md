@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **architprasar@gmail.com**
 
-- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> Figma expert
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
